@@ -1,0 +1,3 @@
+picosdk-master/
+.venv/
+!.venv/PicoPython
